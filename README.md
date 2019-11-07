@@ -1,4 +1,5 @@
-﻿# Live-Newsfeed-app-with-React-and-News-API
+﻿## Live-Newsfeed-app-with-React-and-News-API [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/yaswanthpalaghat/Live-Newsfeed-app-with-React-and-News-API/blob/master/LICENSE)  
+ 
 This is a React App which displays the current and trending live news feed using the News API.
 
 
